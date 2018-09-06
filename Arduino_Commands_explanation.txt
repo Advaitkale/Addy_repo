@@ -1,0 +1,15 @@
+Arduino Programming
+
+1. void setup () and void loop()
+
+2. Also check which version of arduino version you have and select that version in the IDE through tools
+
+3.PIN 13 IS  in-built LED
+
+4.Every clause in arduino is enclosed between curly braces.
+
+5. pinMode(13,OUTPUT) - This statement sets up pin13 to be used for giving output. ALL THE FUNCTIONS AND ARGUMENTS ARE CASE SENSITIVE .
+
+6. digitalWrite(13,HIGH) - This statement sets up pin13 to high state and the in built LED glows.
+
+7. delay(millisec.)- delays code excecution for a certain milliseconds and then starts over again.
